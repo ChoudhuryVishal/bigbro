@@ -3,7 +3,7 @@ import { MongoClient } from 'mongodb';
 import { inspect } from 'util';
 
 const client = new Client();
-const token = process.env.BIGBRO_TOKEN;
+const token = NjM5NDYyNjA2OTQ3NjE0NzMw.XdOAHA.5jwZa1ilIG32eKGE9__kBusW5to;
 const dbUri = process.env.BIGBRO_DB;
 const mongoOptions = {
   retryWrites: true,
